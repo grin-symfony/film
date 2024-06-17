@@ -1,11 +1,11 @@
 {
-    "green-symfony/command-bundle": {
+    "grin-symfony/command-bundle": {
         "version": "0.0.0"
     },
-    "green-symfony/env-processor-bundle": {
+    "grin-symfony/env-processor-bundle": {
         "version": "0.0.0"
     },
-    "green-symfony/service-bundle": {
+    "grin-symfony/service-bundle": {
         "version": "0.0.0"
     },
     "symfony/console": {

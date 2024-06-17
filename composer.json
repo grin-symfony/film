@@ -1,5 +1,5 @@
 {
-	"name": "green-symfony/film",
+	"name": "grin-symfony/film",
     "type": "project",
     "version":		"1",
 	"license": "proprietary",
@@ -9,9 +9,9 @@
         "php": ">=8.1",
         "ext-ctype": "*",
         "ext-iconv": "*",
-        "green-symfony/command-bundle": "^1.0.0",
-        "green-symfony/service-bundle": "^1.0.0",
-        "green-symfony/env-processor-bundle": "^1.0.0",
+        "grin-symfony/command-bundle": "^1.0.0",
+        "grin-symfony/service-bundle": "^1.0.0",
+        "grin-symfony/env-processor-bundle": "^1.0.0",
         "nesbot/carbon": "^2.68",
         "symfony/console": "6.3.*",
         "symfony/dotenv": "6.3.*",
@@ -76,15 +76,15 @@
 	"repositories": [
 		{
 			"type": "path",
-			"url": "./bundles/green-symfony/command-bundle"
+			"url": "./bundles/grin-symfony/command-bundle"
 		},
 		{
 			"type": "path",
-			"url": "./bundles/green-symfony/service-bundle"
+			"url": "./bundles/grin-symfony/service-bundle"
 		},
 		{
 			"type": "path",
-			"url": "./bundles/green-symfony/env-processor-bundle"
+			"url": "./bundles/grin-symfony/env-processor-bundle"
 		}
 	]
 }
