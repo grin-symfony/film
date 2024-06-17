@@ -133,16 +133,16 @@
             "time": "2015-05-29T06:29:14+00:00"
         },
         {
-            "name": "green-symfony/command-bundle",
+            "name": "grin-symfony/command-bundle",
             "version": "1.1.0",
             "dist": {
                 "type": "path",
-                "url": "./bundles/green-symfony/command-bundle",
+                "url": "./bundles/grin-symfony/command-bundle",
                 "reference": "b168847c818817d3dbe40422aa018ac6a64eb972"
             },
             "require": {
-                "green-symfony/env-processor-bundle": "*",
-                "green-symfony/service-bundle": "*",
+                "grin-symfony/env-processor-bundle": "*",
+                "grin-symfony/service-bundle": "*",
                 "nesbot/carbon": "^2.70",
                 "php": ">=7",
                 "symfony/config": "6.*",
@@ -171,22 +171,22 @@
             "description": "Commands for extending into Symfony Application.",
             "keywords": [
                 "command-bundle",
-                "green-symfony"
+                "grin-symfony"
             ],
             "transport-options": {
                 "relative": true
             }
         },
         {
-            "name": "green-symfony/env-processor-bundle",
+            "name": "grin-symfony/env-processor-bundle",
             "version": "1.0.0",
             "dist": {
                 "type": "path",
-                "url": "./bundles/green-symfony/env-processor-bundle",
+                "url": "./bundles/grin-symfony/env-processor-bundle",
                 "reference": "8cf3323a9b975b8731696432cd704945d20fffd1"
             },
             "require": {
-                "green-symfony/service-bundle": "*",
+                "grin-symfony/service-bundle": "*",
                 "php": ">=7",
                 "symfony/config": "6.*",
                 "symfony/dependency-injection": "6.*",
@@ -211,18 +211,18 @@
             "description": "Env rocessors for extending into Symfony Application.",
             "keywords": [
                 "env-processor-bundle",
-                "green-symfony"
+                "grin-symfony"
             ],
             "transport-options": {
                 "relative": true
             }
         },
         {
-            "name": "green-symfony/service-bundle",
+            "name": "grin-symfony/service-bundle",
             "version": "1.0.0",
             "dist": {
                 "type": "path",
-                "url": "./bundles/green-symfony/service-bundle",
+                "url": "./bundles/grin-symfony/service-bundle",
                 "reference": "8916356f0f41dd3f2be16ac7e9a48f0eac05bed2"
             },
             "require": {
@@ -257,7 +257,7 @@
             ],
             "description": "Commonly used symfony services for extending into Symfony Application.",
             "keywords": [
-                "green-symfony",
+                "grin-symfony",
                 "service-bundle"
             ],
             "transport-options": {

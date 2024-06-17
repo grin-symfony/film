@@ -1,9 +1,9 @@
-mkdir "./bundles/green-symfony" -p
-cd "./bundles/green-symfony"
+mkdir "./bundles/grin-symfony" -p
+cd "./bundles/grin-symfony"
 
-git clone "https://github.com/green-symfony/command-bundle.git"
-git clone "https://github.com/green-symfony/service-bundle.git"
-git clone "https://github.com/green-symfony/env-processor-bundle.git"
+git clone "https://github.com/grin-symfony/command-bundle.git"
+git clone "https://github.com/grin-symfony/service-bundle.git"
+git clone "https://github.com/grin-symfony/env-processor-bundle.git"
 
 cd "./command-bundle"
 git fetch origin v1

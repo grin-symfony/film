@@ -1,4 +1,4 @@
-![join film](https://github.com/green-symfony/film/blob/main/doc/film%20join%20working.gif)
+![join film](https://github.com/grin-symfony/film/blob/main/doc/film%20join%20working.gif)
 
 What's this program about?
 ---
@@ -24,14 +24,14 @@ Installation
 
 ### Install all of it
 
-[Install all of it](https://github.com/green-symfony/docs/blob/main/docs/all%20the%20necessary%20programms%20for%20project.md)
+[Install all of it](https://github.com/grin-symfony/docs/blob/main/docs/all%20the%20necessary%20programms%20for%20project.md)
 
 ### Install the program
 
 Choose the directory where you want to situate this program.<br/>
 Open exactly the git_bash console in the chosen directory and execute
 ```console
-git clone https://github.com/green-symfony/film.git && cd ./film && ./init.sh
+git clone https://github.com/grin-symfony/film.git && cd ./film && ./init.sh
 ```
 
 ### Operation System Environment Variables
